@@ -31,16 +31,16 @@ const Contact = () => {
     // template_y8tod15
     // service_8p0coyx
 
-    emailjs.send('service_8p0coyx',
-    'template_y8tod15',
+    emailjs.send('service_565ssmi',
+    'template_38l8lka',
     {
       from_name: form.name,
-      to_name: 'Sudesha',
+      to_name: 'Arunraj',
       from_email: form.email,
-      to_email: 'angelsdemon25@gmail.com',
+      to_email: 'arunrajcoolnkl@gmail.com',
       message: form.message,
     },
-    '4MXOLq7yQb-JsGt5x'
+    'IWwCm76Y7RR4YoTZ-'
     )
     .then(()=> {
        setLoading(false) ;
