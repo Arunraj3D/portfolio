@@ -23,6 +23,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import bootstrap from "./tech/bootstrap.png";
 import unity from "./tech/unity.png";
+import maya from "./tech/maya.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -66,4 +67,5 @@ export {
   tripguide,
   mysql,
   unity,
+  maya,
 };
