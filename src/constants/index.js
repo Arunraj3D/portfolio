@@ -24,7 +24,10 @@ import {
     tripguide,
     threejs,
     mysql,
-    unity
+    unity,
+    maya
+
+    
   } from "../assets";
   
   export const navLinks = [
@@ -67,8 +70,8 @@ import {
       icon: unity,
     },
     {
-      name: "CSS 3",
-      icon: css,
+      name: "Maya",
+      icon: maya,
     },
     {
       name: "JavaScript",
