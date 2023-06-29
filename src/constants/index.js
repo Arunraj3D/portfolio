@@ -62,8 +62,8 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
+      name: "Unity",
+      icon: unity,
     },
     {
       name: "CSS 3",
